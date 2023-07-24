@@ -11,7 +11,8 @@ HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los
 # 2. Demostración
 Puedes entrar a ver el demo en este vinculo: https://splendorous-phoenix-283e07.netlify.app/
 La ideas es inspirarte con esta demostración de proyecto.
-![image](https://github.com/actMariCh/Clon-de-Google/assets/140435095/ff55bfd9-4eb0-42cb-92b3-5d3d7feaf8ec)
+![image](https://github.com/actMariCh/Clon-de-Google/assets/140435095/c74f0adb-2a4f-42b9-96cf-5b1617914fd8)
+
 
 # 3. ¿Qué construirás?
 Este proyecto está enfocado en construir la interfaz estática de Google.
