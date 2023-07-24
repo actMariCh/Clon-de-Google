@@ -1,6 +1,6 @@
 # Clon de Google (HTML. CSS)
 Proyecto realizado con la intención de aplicar los conocimientos obtenidos en el bootcamp de Tecnolochicas PRO Summer Camp.
-#ÍNDICE
+# ÍNDICE
 * 1. Introducción
 * 2. Demostración
 * 3. ¿Qué construirás?
@@ -9,8 +9,10 @@ Proyecto realizado con la intención de aplicar los conocimientos obtenidos en e
 # 1. Introducción
 HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los días en el navegador💻. Incluso, este sitio web en donde estás viendo este contenido está construido con HTML y CSS🤯(junto con otros elementos que conocerás más adelante). Para este primer proyecto, con los conocimientos que tienes de HTML y CSS realiza la clonación de la interfaz de Google, sí, esa que ves cada que haces una búsqueda en su navegador, ¿aceptas el reto🤓?
 # 2. Demostración
-Puedes entrar a ver el demo en este vinculo:
+Puedes entrar a ver el demo en este vinculo: https://splendorous-phoenix-283e07.netlify.app/
 La ideas es inspirarte con esta demostración de proyecto.
+![image](https://github.com/actMariCh/Clon-de-Google/assets/140435095/ff55bfd9-4eb0-42cb-92b3-5d3d7feaf8ec)
+
 # 3. ¿Qué construirás?
 Este proyecto está enfocado en construir la interfaz estática de Google.
 Se te pide que sea una sola página que contenga las siguientes secciones:
